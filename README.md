@@ -14,8 +14,6 @@ Code Refactoring and Reusable UI Components: During the development process, I r
 Testing
 API Testing and Security Considerations: Testing the API involved verifying that the endpoints for handling CRUD operations (create, read, update, delete) worked correctly, particularly for travel bookings and user authentication. Postman was used to simulate API requests and test the retrieval and modification of data. One of the biggest challenges was testing endpoints that required security measures, such as admin login authentication. Secure endpoints were protected by JSON Web Tokens (JWT), and testing included ensuring that only authenticated users could access certain administrative features. This added an additional layer of complexity but ensured that data was protected from unauthorized access.
 
-Reflection
-This course has significantly contributed to my progress toward becoming a well-rounded web developer. It provided hands-on experience in building a full stack application using industry-standard tools like MongoDB, Express, Angular, and Node.js (MEAN stack). I’ve learned how to manage and integrate front-end and back-end technologies effectively, which has strengthened my understanding of web application architecture. Furthermore, mastering the creation of reusable UI components and implementing security features like JWT has made me more confident in my ability to develop scalable, secure web applications. These skills have not only enhanced my technical expertise but also made me a more marketable candidate in the field of software development.
 
 
 
